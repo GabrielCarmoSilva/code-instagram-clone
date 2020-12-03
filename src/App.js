@@ -11,9 +11,9 @@ const posts = [
       profilePic: "https://prospectdirect.com/wpstagemct/wp-content/uploads/2017/05/generic-profile-photo-3.jpg",
   },
   {
-      userName: "Beatriz Romero",
-      image: "https://biadias.com.br/imgs/bia/bia-intro.jpg",
-      message: 'Meu nome é Bia Dias',
+      userName: "Gabriel Costa Cunha",
+      image: "https://media.licdn.com/dms/image/C4E0BAQHJVUdjXcahnQ/company-logo_200_200/0?e=2159024400&v=beta&t=jzN30LRzuT9F1uzXKHmVyd_KzeZOvH2tfhj22z2AWfQ",
+      message: 'Meu nome é Gabriel Costa Cunha, sou da Code Jr',
       profilePic: "https://prospectdirect.com/wpstagemct/wp-content/uploads/2017/05/generic-profile-photo-3.jpg",
   }
 ];
