@@ -1,4 +1,3 @@
-import logo from './logo.png';
 import './App.css';
 import Footer from "./footer";
 import PostList from "./postList";
