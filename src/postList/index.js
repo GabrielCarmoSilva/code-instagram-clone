@@ -7,9 +7,11 @@ const PostList = (props) => {
       <div className={styles.list}>
         {props.posts.map((post) => (
           <Post
-            userName={post.userName}
+            key={post.id}
+            userName={post.user.name}
             imageUrl={post.imageUrl}
-            imageDescription={post.imageDescription}
+            imageTitle={post.title}
+            imageDescription={post.description}
           />
         ))}
       </div>
